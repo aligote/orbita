@@ -1,0 +1,117 @@
+.filtres{
+  background: $blue-light;
+  border:1px solid $gray-border;
+  padding: 10px;
+  &__header{
+    margin-top:0;
+    border:none;
+    padding-left:0;
+    &_link{
+      text-decoration: none;
+      position: relative;
+      padding-right: 2rem;
+      &:hover,&:active,&:focus{
+        text-decoration: none;
+      }
+      &.collapsed {
+        .caret {
+          margin-top: -0.25rem;
+          @include sprite($dropdown_);
+        }
+      }
+    }
+  }
+  &__slide {
+    margin: 0 10px;
+  }
+  &__slide-input {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    .form-group {
+      width:48%;
+      display:inline-block;
+    }
+  }
+}
+.price-slider {
+  margin: 2rem 0 1rem 0;
+  position:relative;
+
+  &_grid {
+    display:block;
+    float:left;
+    border-left: 1px solid $gray-border;
+    width:20%;
+    box-sizing: border-box;
+    font-size: 0.67rem;
+    height:0.5rem;
+    position: relative;
+    &:last-child {
+      border-right: 1px solid $gray-border;
+    }
+    span {
+      position: absolute;
+      top: -0.8rem;
+      left: 0;
+      transform: translate(-50%,0);
+    }
+
+    .price-slider_10{
+      position: absolute;
+      top: -.8rem;
+      right: 0;
+      left: auto;
+      transform: translate(50%,0);
+    }
+  }
+  &_min{
+    left:0;
+  }
+  &_max{
+    right:0;
+  }
+}
+.slider.slider-horizontal {
+  width: 100%;
+}
+
+.slider-handle {
+  position: absolute;
+  top: -6px;
+  width:14px;
+  border: 0px solid transparent;
+  box-shadow: none;
+  cursor:pointer;
+  &.custom {
+    &::before{
+      @include sprite($slide-point);
+      content:'';
+      display:inline-block;
+      position: relative;
+      right: -3px;
+    }
+  }
+}
+
+.slider.slider-horizontal .slider-selection{
+  background: transparent;
+  box-shadow: none;
+  border-radius: 0;
+  border-bottom:2px solid $blue;
+  margin-bottom:-1px;
+  top:2px;
+}
+
+.slider-track-low, .slider-track-high {
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.slider.slider-horizontal .slider-track {
+  border-radius: 0;
+  box-shadow: none;
+  border-bottom:2px solid $gray-border;
+  background-image: none;
+  margin-top:-25px;
+}

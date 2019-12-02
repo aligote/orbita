@@ -1,0 +1,35 @@
+.catalog-nav {
+  margin:1rem 0 0 0;
+  &__select{}
+  &__search{}
+  &__btn {
+    background: white;
+    color:$blue;
+    margin:0;
+    &:active, &:focus {
+      outline: none;
+    }
+  }
+}
+
+@media (max-width: $screen-xs-max) {
+  .catalog-nav {
+    &__select{
+    }
+    &__search{
+      margin:1rem 0 1rem 0;
+    }
+  }
+}
+@media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+  .catalog-nav {
+    &__select{
+    }
+    &__search{
+      margin:0 0 1rem 0;
+    }
+  }
+}
+@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+  html, body  {font-size: $font-size-base*0.95;}
+}

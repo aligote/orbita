@@ -1,0 +1,167 @@
+*,
+*:after,
+*::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.ac-custom {
+	margin: 0 auto;
+}
+
+
+.ac-custom ul,
+.ac-custom ol {
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+}
+
+.ac-custom li {
+	margin: 0 auto;
+	padding: 0.25rem 0;
+	position: relative;
+}
+
+.ac-color.ac-custom li {
+	margin: 0.5rem ;
+	padding: 0;
+	position: relative;
+	display:inline-block;
+	-webkit-transition: color 0.3s;
+	transition: color 0.3s;
+	label {
+		position:absolute;
+		top:0;
+		left:0;
+		z-index: 10;
+		width: 50px;
+		height: 50px;
+		border:2px solid $gray-darker;
+		padding:0;
+		margin:0;
+	}
+	label::before{
+		cursor:pointer;
+		box-sizing: border-box;
+		-webkit-transition: opacity .3s;
+		transition: opacity .3s;
+		width:46px;
+		height:46px;
+		top: 50%;
+		left: 50%;
+		margin-top: -23px;
+		margin-left: -23px;
+		border:3px solid $blue-light;
+		display: inline-block;
+		position: absolute;
+		opacity: 0.8;
+	}
+
+	&#red { label::before{background: $red;}}
+	&#blue { label::before{background: $blue;}}
+	&#green { label::before{background: $brand-success;}}
+	&#orange { label::before{background: $brand-warning;}}
+	&#gray { label::before{background: $gray;}}
+}
+
+.ac-color.ac-custom input[type="checkbox"]:checked + label:before{
+	border:none;
+	opacity: 1;
+}
+
+.ac-custom label {
+	display: inline-block;
+	position: relative;
+	font-size: 1em;
+	padding: 0 0 0 1.5rem;
+	vertical-align: top;
+	color: $gray-dark;
+	cursor: pointer;
+	-webkit-transition: color 0.3s;
+	transition: color 0.3s;
+}
+
+
+.ac-custom input[type="checkbox"],
+.ac-custom input[type="radio"],
+.ac-custom label::before {
+	width: 20px;
+	height: 20px;
+	top: 50%;
+	left: 0;
+	margin-top: -11px;
+	position: absolute;
+	cursor: pointer;
+}
+
+.ac-color input[type="checkbox"]{
+	width: 50px;
+	height: 50px;
+	top: 0;
+	left: 0;
+	margin-top: 0;
+	position: relative;
+	cursor: pointer;
+	display: inline-block;
+}
+
+
+.ac-custom input[type="checkbox"],
+.ac-custom input[type="radio"] {
+	opacity: 0;
+	-webkit-appearance: none;
+	display: inline-block;
+	vertical-align: middle;
+	z-index: 100;
+}
+
+.ac-custom label::before {
+	content: '';
+	border: 2px solid $gray-darker;
+	-webkit-transition: opacity 0.3s;
+	transition: opacity 0.3s;
+}
+
+.ac-radio label::before {
+	border-radius: 50%;
+}
+
+.ac-custom input[type="checkbox"]:checked + label,
+.ac-custom input[type="radio"]:checked + label {
+	color: $gray-darker;
+} 
+
+.ac-custom input[type="checkbox"]:checked + label::before,
+.ac-custom input[type="radio"]:checked + label::before {
+	opacity: 0.8;
+}
+
+/* General SVG and path styles */
+
+.ac-custom svg {
+	position: absolute;
+	width: 24px;
+	height: 23px;
+	top: 50%;
+	margin-top: -19px;
+	left: 0px;
+	pointer-events: none;
+}
+
+.ac-radio svg{
+	width: 18px;
+	height: 18px;
+	margin-top: -12px;
+	left: 1px;
+}
+
+.ac-custom svg path {
+	stroke: $red;
+	stroke-width: 13px;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	fill: none;
+}
+

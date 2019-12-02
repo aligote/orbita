@@ -1,0 +1,103 @@
+.footer{
+  margin-top:15px;
+  margin-left: -15px;
+  margin-right: -15px;
+  padding-bottom:15px;
+  background: $gray-light;
+  &__wrapper {
+    margin:15px;
+  }
+  &__input-email{
+    width: 154px !important;
+    height: 31px;
+  }
+  &__input-btn{
+    margin-left:-5px;
+  }
+  &__link{
+    color:$gray-darker;
+    &:hover {
+      color:$red;
+      text-decoration: none;
+    }
+  }
+  &__info {
+    color:$gray-dark;
+    line-height: 1;
+  }
+  &__contact, &__adress{
+    margin-top:1.75rem;
+  }
+  &__logo {margin-top:1.2rem;}
+  &__delivery {margin-top:1.67rem;}
+  .icon-email, .icon-phone {
+    color:$blue;
+  }
+}
+
+
+@media (max-width: $screen-xs-max) {
+  .footer {
+    &__input-email{
+      display:inline-block;
+      vertical-align: middle;
+      width: 50%!important;
+
+    }
+    &__about,&__cabinet{
+      margin-bottom:1rem;
+    }
+    &__delivery{
+      margin-top:0;
+    }
+    &__header{
+      border-bottom: 1px solid $blue;
+    }
+
+    &__link{
+      line-height: 2;
+      display: inline-block;
+      border-bottom:1px solid white;
+      width:100%;
+      &:hover {
+        color:$red;
+        text-decoration: none;
+      }
+    }
+
+  }
+}
+@media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+  .footer {
+    &__about,&__cabinet{
+      height: 17rem;
+    }
+    &__delivery{
+      margin-top:0;
+    }
+    &__header{
+      border-bottom: 1px solid $blue;
+    }
+
+    &__link{
+      line-height: 2;
+      display: inline-block;
+      border-bottom:1px solid white;
+      width:100%;
+      &:hover {
+        color:$red;
+        text-decoration: none;
+      }
+    }
+
+  }
+}
+@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+  html, body  {font-size: $font-size-base*0.95;}
+  .footer{
+    &__input-email{
+    width: 115px !important;
+  }
+  }
+}
+@media (min-width: $screen-lg-min) { }

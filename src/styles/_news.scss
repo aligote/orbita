@@ -1,0 +1,20 @@
+.news {
+  &__item {
+    border-left: 1px solid $blue;
+    padding-left:0.5rem;
+    margin-bottom:2rem;
+  }
+  &__header {
+    margin-top: 0;
+    line-height: 1;
+  }
+  &__data {
+    background: $blue;
+    color:white;
+    display: inline-block;
+    margin-left: -.5rem;
+    top: -.2rem;
+    left: -1px;
+    position: relative;
+  }
+}

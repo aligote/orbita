@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'mon-amour';
+  src: url('../fonts/mon-amour.eot');
+  src: local('☺'), url('../fonts/mon-amour.woff') format('woff'), url('../fonts/mon-amour.ttf') format('truetype'), url('../fonts/mon-amour.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html, body {font-size: $font-size-base}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+h1,h3,h4{
+  text-transform: uppercase;
+}
+
+h2,h3 {
+  border-left: 1px solid;
+  padding-left:0.5rem;
+  text-transform: uppercase;
+  &.blue {
+    border-color: $blue;
+  }
+  &.red {
+    border-color: $red;
+  }
+}
+.breadcrumb {
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+hr {
+  border: 0;
+  height: 1px;
+  background: $gray;
+  background-image: -webkit-linear-gradient(left, $gray-lighter, $gray, $gray-lighter);
+  background-image:    -moz-linear-gradient(left, $gray-lighter, $gray, $gray-lighter);
+  background-image:     -ms-linear-gradient(left, $gray-lighter, $gray, $gray-lighter);
+  background-image:      -o-linear-gradient(left, $gray-lighter, $gray, $gray-lighter);
+}
+
+
+
+hr.small {
+  margin-top: .5rem;
+  margin-bottom: 0rem;
+  border-top: 1px solid $gray-border;
+  width: 70%;
+  margin-right: 30%;
+}
+
+small {line-height: 1.2}
+
+ul.list {
+  list-style: none;
+  li {
+    margin: 0.25rem;
+    &::before {
+      content: '';
+      background: #00769b;
+      width: 0.5rem;
+      height: 0.5rem;
+      color: #fff;
+      text-align: center;
+      margin-right: .5rem;
+      margin-top: -0.23rem;
+      vertical-align: middle;
+      display: inline-block;
+    }
+  }
+}
+
+.table {
+  > thead > tr > th {
+  background-color: $gray-light;
+  }
+}
+
+.table-hover>tbody>tr:hover,.table>tbody>tr.active>td,.table>tbody>tr.active>th,.table>tbody>tr>td.active,.table>tbody>tr>th.active,.table>tfoot>tr.active>td,.table>tfoot>tr.active>th,.table>tfoot>tr>td.active,.table>tfoot>tr>th.active,.table>thead>tr.active>td,.table>thead>tr.active>th,.table>thead>tr>td.active,.table>thead>tr>th.active {
+  color:$gray-lighter;
+}
+
+
+
+
+@media (max-width: $screen-xs-max) {html, body  {font-size: $font-size-base*1.1;}}
+@media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {  }
+@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+  html, body  {font-size: $font-size-base*0.95;}
+}
+@media (min-width: $screen-lg-min) { }

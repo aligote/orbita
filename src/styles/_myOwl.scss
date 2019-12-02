@@ -1,0 +1,35 @@
+.owl-carousel {
+ .owl-stage-outer {
+  }
+.owl-nav .owl-prev,
+.owl-nav .owl-next{
+  background: rgba(0,0,0,0.3);
+  width:40px;
+  height:85px;
+  position: absolute;
+  top:50%;
+  margin-top:-80px;
+  &::after {
+    display: block;
+    content: '';
+    margin: 0 auto;
+    position: relative;
+    top: 50%;
+    margin-top: -23px;
+  }
+}
+  .owl-nav .owl-prev{
+    font-size: 0;
+    left:0;
+    &::after {
+      @include sprite($prev);
+    }
+  }
+  .owl-nav .owl-next{
+    font-size: 0;
+    right:0;
+    &::after {
+      @include sprite($next);
+    }
+  }
+}

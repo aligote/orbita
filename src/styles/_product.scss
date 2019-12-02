@@ -1,0 +1,109 @@
+.product {
+  &-header{
+    margin:-12.5px 0 1rem 0;
+    h1 {
+      margin:0;
+    }
+  }
+  &-buy {
+    background:white;
+    border:1px solid $gray-border;
+    overflow: hidden;
+    padding: 15px 0;
+    margin:1rem 0;
+    &__price {
+      font-family: 'Ubuntu Condensed', sans-serif;
+      margin-top:0.5rem;
+    }
+
+    &__price_text{
+      font-family: 'Roboto', sans-serif;
+      font-size: 1rem;
+    }
+    &__price_old{
+      display:inline-block;
+      color:$gray;
+      text-decoration: line-through;
+      vertical-align: top;
+      font-size:1.33rem;
+      margin-right: 0.3rem;
+    }
+    &__price_new{
+      display:inline-block;
+      color:$strongColor;
+      font-size:2rem;
+    }
+    &__btn .btn{
+      width:100%;
+    }
+  }
+
+
+
+  &-info {
+    text-align: center;
+    margin-top:1.5rem;
+  }
+  &-in-box{display: inline-block;padding-right:15px;vertical-align: top}
+  &-min{display: inline-block;padding-right:15px;vertical-align: top}
+  &-presence{display: inline-block;vertical-align: top; color: $brand-success}
+}
+
+@media (max-width: $screen-xs-max) {
+  .product {
+    &-header{
+
+    }
+    &-buy {
+      text-align: center;
+      &__presence{
+        margin-top:1rem;
+        &_value {
+          display: inline;
+        }
+      }
+      &__price {
+        display: inline-block;
+        vertical-align: top;
+      }
+      &__price_text{
+      display:inline-block;
+      }
+      &__price_old{
+        display:inline-block;
+        color:$gray;
+        text-decoration: line-through;
+        vertical-align: top;
+        font-size:1.33rem;
+        margin-right: 0.3rem;
+      }
+      &__price_new{
+        display:inline-block;
+        color:$strongColor;
+        font-size:2rem;
+      }
+      &__btn .btn{
+        margin-top:1rem;
+        width:70%;
+        text-align: center;
+      }
+    }
+
+
+
+    &-info {
+      text-align: center;
+      margin-top:1.5rem;
+      font-size: 0.67rem;
+    }
+    &-in-box{display: inline-block;padding-right:15px;vertical-align: top}
+    &-min{display: inline-block;padding-right:15px;vertical-align: top}
+    &-presence{
+    }
+  }
+}
+@media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {  }
+@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+  html, body  {font-size: $font-size-base*0.95;}
+}
+@media (min-width: $screen-lg-min) { }

@@ -1,0 +1,14 @@
+.images-gallery {
+  margin-bottom:1rem;
+  &_big {
+    width:100%;
+    margin-bottom:1rem;
+  }
+  &_thumb{
+    padding:0  0 0 15px;
+    display:block;
+    img {
+      width:100%;
+    }
+  }
+}

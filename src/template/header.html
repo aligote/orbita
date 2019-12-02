@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="windows-1251">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title><?$APPLICATION->ShowTitle()?></title>
+    <link href="styles/main.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link href="styles/banner.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700|Ubuntu+Condensed" rel="stylesheet">
+</head>
+<body class="ng">
+<!--декор-->
+<div class="elka"></div>
+<div class="container">
+    <header>
+        <div class="row top-line ng">
+            <div class="col-md-8 col-lg-9">
+                <div class="top-line__phone">
+                    <svg class="icons icon-phone top-line__phone-icons">
+                        <use xlink:href="/images/sprite.svg#phone"></use>
+                    </svg>
+                    (383) 363-73-14
+                </div>
+                <div class="top-line__adress">Адрес: г. Новосибирск, Автогенная, 122</div>
+                <a href="/">
+                    <!--svg class="top-line__logo logo ">
+                        <use xlink:href="/images/sprite.svg#logo"></use>
+                    </svg-->
+                    <svg class="top-line__logo logo ng">
+                        <svg xlink:href="../images/logo_ng.svg"></svg>
+                    </svg>
+                </a>
+            </div>
+            <div class="col-md-4 col-lg-3 top-line__log-form">
+                <div class="">
+                    <div class="top-line__login" id="login">
+                        <svg class="icons icon-log-in">
+                            <use xlink:href="/images/sprite.svg#log-in"></use>
+                        </svg>
+                        Войти</div>
+                    <div class="top-line__registration" id="registration" data-toggle="modal" data-target="#registrationModal">
+                        <svg class="icons icon-user">
+                            <use xlink:href="/images/sprite.svg#user"></use>
+                        </svg>
+                        Регистрация</div>
+                </div>
+            </div>
+        </div>
+        <div class="row top-navigation">
+            <div class="col-md-3">
+                <a href="/">
+                    <svg class="top-navigation__logo logo ng">
+                        <use xlink:href="/images/sprite.svg#logo_ng"></use>
+                    </svg>
+                </a>
+            </div>
+            <div class="col-md-6 col-sm-9">
+                <form action="" class="top-navigation__search">
+                    <input class=" form-control" type="text" name="arrFilter_ff[NAME]" size="20" value="" placeholder="Поиск по каталогу">
+
+                    <button type="submit" form="" class="top-navigation__btn" value="">
+                        <svg class="top-navigation__btn icons icon-search">
+                            <use xlink:href="/images/sprite.svg#search"></use>
+                        </svg>
+                    </button>
+                </form>
+                <a id="top" name="top"></a>
+            </div>
+            <div class="col-md-3 col-sm-3">
+                <div class="top-navigation__cart">
+                    <div class="top-navigation__cart_icons-wrapper">
+                        <a href=""><svg class="icons icon-cart">
+                            <use xlink:href="/images/sprite.svg#cart"></use>
+                        </svg></a>
+                        <small class="top-navigation__cart_count">5</small>
+                    </div>
+                    <span class="top-navigation__cart_price price">54000р</span>
+                </div>
+                <!-- Toggle get grouped for better mobile display -->
+                <button type="button" class="navbar-toggle collapsed top-navigation__navbar-toggle" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-9 col-md-offset-3">
+                <nav class="top-navigation__menu navbar">
+                    <div class="collapse navbar-collapse" id="collapseExample">
+                        <ul class="top-navigation__nav">
+                            <li><a class="top-navigation__menu_item" href="">О компании</a></li>
+                            <li><a class="top-navigation__menu_item" href="">Каталог</a></li>
+                            <li><a class="top-navigation__menu_item" href="">Доставка</a></li>
+                            <li><a class="top-navigation__menu_item" href="">Как купить</a></li>
+                            <li class="dropdown"><a class="top-navigation__menu_item dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"  href="">Акции</a>
+                                <ul class="top-navigation__subnav dropdown-menu">
+                                    <li><a class="top-navigation__menu_item" href="">Распродажи</a></li>
+                                    <li><a class="top-navigation__menu_item" href="">Скидки</a></li>
+                                    <li><a class="top-navigation__menu_item" href="">Спецпредложения</a></li>
+                                </ul>
+                            </li>
+                            <li><a class="top-navigation__menu_item" href="">Контакты</a></li>
+                            <li><a class="top-navigation__menu_item" href="">Поставщикам</a></li>
+                            <li><a class="top-navigation__menu_item" href="">
+                                <svg class="icons icon-price">
+                                    <use xlink:href="/images/sprite.svg#price"></use>
+                                </svg>
+                                Скачать</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="alert alert-danger alert-dismissible show" role="alert">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <strong>Уважаемые Друзья !</strong>
+                    <p>Обратите внимание, склад компании Орбита в уходящем году работает до 14-00 27.12.18</p> <br />
+                    <p>Сайт работает в обычном режиме, Выдача товара будет возможна 09.01.2019г.</p>
+                    <p>Будем рады видеть вас в Новом Году !</p>
+                </div>
+            </div>
+        </div>

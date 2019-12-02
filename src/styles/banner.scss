@@ -1,0 +1,596 @@
+@import "customVariables";
+.home-banner{
+  background-color: white;
+  padding: 0 30px;
+  &__holiday {
+    .home-banner__head {
+      font-family:'mon-amour',Sans-Serif;
+      text-transform: none;
+    }
+  }
+  &:after, &:before {
+    content:".";
+    clear:both;
+    display:block;
+    height:0;
+    font-size:0;
+    visibility:hidden
+  }
+
+  position: relative;
+  &__description{position: relative}
+  &__head {
+    margin-top:3rem;
+    border-left:0px;
+  }
+  &__head-nodiscount{
+    margin-top:1rem;
+  }
+  &__discount{
+    position:absolute;
+    left:0;
+    top:0;
+    &_value{
+      position: absolute;
+      top:0.2rem;
+      left:0.6rem;
+      font-size:2rem;
+      font-family: 'Ubuntu Condensed', sans-serif;
+      color:white;
+      text-shadow:
+              -0   -2px 1px $red,
+              0   -2px 1px $red,
+              -0    2px 1px $red,
+              0    2px 1px $red,
+              -2px -0   1px $red,
+              2px -0   1px $red,
+              -2px  0   1px $red,
+              2px  0   1px $red,
+              -1px -2px 1px $red,
+              1px -2px 1px $red,
+              -1px  2px 1px $red,
+              1px  2px 1px $red,
+              -2px -1px 1px $red,
+              2px -1px 1px $red,
+              -2px  1px 1px $red,
+              2px  1px 1px $red,
+              -2px -2px 1px $red,
+              2px -2px 1px $red,
+              -2px  2px 1px $red,
+              2px  2px 1px $red,
+              -2px -2px 1px $red,
+              2px -2px 1px $red,
+              -2px  2px 1px $red,
+              2px  2px 1px $red,
+              -3px -2px 1px $red,
+              3px -2px 1px $red,
+              -3px  2px 1px $red,
+              3px  2px 1px $red,
+              -2px -3px 1px $red,
+              2px -3px 1px $red,
+              -2px  3px 1px $red,
+              2px  3px 1px $red,
+              -2px -2px 1px $red,
+              2px -2px 1px $red,
+              -2px  2px 1px $red,
+              2px  2px 1px $red,
+              -2px -2px 1px $red,
+              2px -2px 1px $red,
+              -2px  2px 1px $red,
+              2px  2px 1px $red;
+    }
+    &:before{
+      z-index:0;
+      content: "";
+      position:absolute;
+      top:0;
+      left:0;
+      display: inline-block;
+      border:1.7rem solid transparent;
+      border-top-color:$red;
+      border-left-color:$red;
+    }
+  }
+  &__btn{
+    position: absolute;
+    right:15px;
+    bottom:0;
+    outline: none;
+    &:active,&:focus {
+      outline: none;
+    }
+  }
+  &__price {
+    font-family: 'Ubuntu Condensed', sans-serif;
+  }
+  &__price_old{
+    display:inline-block;
+    color:$gray;
+    text-decoration: line-through;
+    vertical-align: top;
+    font-size: 1.67rem;
+    margin-right: 0.3rem;
+  }
+  &__price_new{
+    display:inline-block;
+    color:$strongColor;
+    font-size:2.7rem;
+  }
+  /*Временные стили, можно удалять*/
+  &.sl, &.rvk, &.alca, &.tpv, &.opletki, &.frap{
+    .home-banner__btn {
+      position: static !important;
+    }
+  }
+
+  &.m9 {
+      background-color: #d5cfc4;
+      /* IE9, iOS 3.2+ */
+      background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjxsaW5lYXJHcmFkaWVudCBpZD0idnNnZyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj48c3RvcCBzdG9wLWNvbG9yPSIjZmFmN2YyIiBzdG9wLW9wYWNpdHk9IjEiIG9mZnNldD0iMCIvPjxzdG9wIHN0b3AtY29sb3I9IiNiMGE3OTYiIHN0b3Atb3BhY2l0eT0iMSIgb2Zmc2V0PSIxIi8+PC9saW5lYXJHcmFkaWVudD48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI3ZzZ2cpIiAvPjwvc3ZnPg==);
+      background-image: -webkit-gradient(linear, 0% 0%, 0% 100%,color-stop(0, rgb(250, 247, 242)),color-stop(1, rgb(176, 167, 150)));
+      /* Android 2.3 */
+      background-image: -webkit-repeating-linear-gradient(top,rgb(250, 247, 242) 0%,rgb(176, 167, 150) 100%);
+      /* IE10+ */
+      background-image: repeating-linear-gradient(to bottom,rgb(250, 247, 242) 0%,rgb(176, 167, 150) 100%);
+      background-image: -ms-repeating-linear-gradient(top,rgb(250, 247, 242) 0%,rgb(176, 167, 150) 100%);
+
+    border: 1px solid #d5cfc4;
+    .home-banner__description hr {
+      background: #861108;
+      background-image:none;
+    }
+    .home-banner__head {
+      margin-top:1rem;
+    }
+    .home-banner__fon {
+      background: url(/images/banner/banner-fon-9m19.png) no-repeat left top;
+      background-size: 100% ;
+      padding-bottom: 61%;
+      &:before {
+        background: none;
+      }
+    }
+  }
+
+  &.m1 {
+
+    .home-banner__head {
+      margin-top:1rem;
+    }
+    .home-banner__fon {
+      background: url(/images/banner/banner-fon-1m.jpg) no-repeat left top;
+      background-size: 100% ;
+      padding-bottom: 81%;
+      &:before {
+        background: none;
+      }
+    }
+  }
+  /*&.ng {
+    .sugrob {
+      background: url(/images/sugrob.png) no-repeat center top;
+      left:0;
+      right:0;
+      top:-32px;
+      height:74px;
+      z-index: 100;
+      position: absolute;
+    }
+    .home-banner__head {
+      color:$white;
+      text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
+    }
+    h3.home-banner__head{
+      margin-top:$padding-small-vertical;
+      font-size: $font-size-large;
+      line-height: 1.3;
+    }
+    .home-banner__fon {
+      background: transparent;
+    }
+    .home-banner__text p {
+      color: #ffffff;
+      text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
+    }
+    background: url(/images/banner/ng-19.jpg) no-repeat right top;
+    background-size: cover;
+  }*/
+} 
+@media (max-width: $screen-xs-max) {
+  .home-banner{
+    background-color: white;
+    position: relative;
+    &__description{  }
+    &__dividing{display: none;}
+    &__fon{
+      &:before{
+        z-index:0;
+        content: "";
+        position:absolute;
+        bottom:0;
+        left:0;
+        right:0;
+        height:50%;
+        display: inline-block;
+        background: $blue;
+        background: linear-gradient(to right, #04abd4 0%,#0ccfcd 100%);
+      }
+    }
+    &__img{
+      width:90%;
+      margin:0 5%;
+      position:relative;
+      z-index: 100;
+    }
+    &__head {
+      margin-top:3rem;
+    }
+    &__discount{
+      &_value{}
+      &:before{}
+    }
+    &__btn{
+      position: static;
+      right:50%;
+      bottom:0;
+      outline: none;
+      margin: 0.5rem auto;
+      display: block;
+      &:active,&:focus {
+        outline: none;
+      }
+    }
+    &__price {
+      position: absolute;
+      top: -2.5rem;
+      right: $grid-gutter-width/2;
+    }
+    &__price_old{
+      display:inline-block;
+      color:$gray;
+      text-decoration: line-through;
+      vertical-align: top;
+      font-size: 1.5rem;
+      margin-right: 0.3rem;
+    }
+    &__price_new{
+      display:inline-block;
+      color:$strongColor;
+      font-size:2rem;
+    }
+    /*Временные стили, можно удалять*/
+    &.tpv {
+      .home-banner__fon:before{
+        background: transparent;
+      }
+    }
+    &.d8 {
+      background: url(/images/banner/8-2019-xs.jpg) no-repeat left top;
+      background-size: 100%;
+      padding-bottom: 60%;
+    }
+    &.m9 {
+        .home-banner__fon {
+          background: url(/images/banner/banner-fon-9m19.png) no-repeat left top;
+          background-size: 100% ;
+          padding-bottom: 61%;
+        }
+    }
+    &.m1 {
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-1m.jpg) no-repeat left top;
+        background-size: 100% ;
+        padding-bottom: 81%;
+      }
+    }
+   /* &.ng {
+      text-align: center;
+      .sugrob {
+        background: url(/images/sugrob.png) no-repeat center top;
+        left:0;
+        right:0;
+        top:-32px;
+        height:74px;
+        z-index: 100;
+        position: absolute;
+      }
+      home-banner__head {
+        font-size: $font-size-h1*1.2;
+        margin:4rem 0 1rem 0;
+      }
+      h3.home-banner__head{
+        margin-top:$padding-small-vertical;
+        font-size: $font-size-large;
+        line-height: 1.3;
+      }
+      .home-banner__text p {
+        line-height: 1.3;
+        margin:3rem 0 1rem 0;
+      }
+
+      background: url(/images/banner/ng-19-smart.jpg) no-repeat right top;
+      background-size: 100%;
+    }*/
+  }
+}
+@media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+  .home-banner{
+    &__description{margin-bottom:1rem}
+    &__img{
+      position: absolute;
+      right: 1rem;
+      bottom: -3rem;
+    }
+    &__fon {
+      background: url(/images/banner/banner-fon.jpg) no-repeat center bottom;
+      background-size: 100% auto;
+      height:300px;
+      position:relative;
+    }
+    /*Временные стили, можно удалять*/
+    &.sl, &.rvk, &.alca {
+      .home-banner__img{
+        width: 65%;
+        right: 50%;
+        transform: translateX(50%);
+      }
+    }
+    &.rvk {
+      .home-banner__fon {
+        background: url(/local/images/banner/banner-fon-tab-rvk.jpg) no-repeat left top;
+      }
+    }
+    &.sl {
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-tab-s1.jpg) no-repeat right bottom;
+      }
+    }
+    &.alca {
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-tab-alca.jpg) no-repeat right bottom;
+      }
+    }
+
+    &.frap {
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-tab-frap.jpg) no-repeat right bottom;
+        background-size: contain;
+      }
+    }
+
+    &.opletki {
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-tab-opletki.jpg) no-repeat right bottom;
+      }
+    }
+
+    &.tpv {
+      .home-banner__fon {
+        video {display: none}
+        background: url(/images/banner/banner-fon-tab-tpv.jpg) no-repeat right bottom;
+      }
+    }
+
+   /* &.d8 {
+        background: url(/images/banner/8-2019-xs.jpg) no-repeat left top;
+        background-size: 100%;
+        padding-bottom: 60%;
+      }*/
+    &.m9 {
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-9m19.png) no-repeat left top;
+        background-size: 100% ;
+        padding-bottom: 61%;
+      }
+    }
+
+    &.m1 {
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-1m.jpg) no-repeat left top;
+        background-size: 100% ;
+        padding-bottom: 81%;
+      }
+    }
+
+ /*  &.ng {
+      text-align: center;
+      padding-bottom: 1rem;
+      .sugrob {
+        background: url(/images/sugrob.png) no-repeat center top;
+        left:0;
+        right:0;
+        top:-32px;
+        height:74px;
+        z-index: 100;
+        position: absolute;
+      }
+
+      .home-banner__head {
+        font-size: $font-size-h1*1.2;
+        margin:4rem 0 1rem 0;
+      }
+      h3.home-banner__head{
+        margin-top:$padding-small-vertical;
+        font-size: $font-size-large;
+        line-height: 1.3;
+      }
+      .home-banner__text p {
+        line-height: 1.3;
+        margin:3rem 0 1rem 0;
+      }
+
+      background: url(/images/banner/ng-19-tab.jpg) no-repeat right top;
+      background-size: 100%;
+    }*/
+
+  }
+}
+@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+  .home-banner{
+    &__fon {
+      background: url(/images/banner/banner-fon.jpg) no-repeat right bottom;
+      height:300px;
+      position:relative;
+    }
+    &__img{
+      position: absolute;
+      right: -2rem;
+      bottom: -3rem;
+    }
+    /*Временные стили, можно удалять*/
+    &.sl {
+      padding-bottom: 1rem;
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-s1.jpg) no-repeat right bottom;
+      }
+    }
+    &.rvk {
+      padding-bottom: 1rem;
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-rvk.jpg) no-repeat left top;
+        height:370px;
+      }
+    }
+    &.alca {
+      padding-bottom: 1rem;
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-alca.jpg) no-repeat left top;
+        height:370px;
+      }
+    }
+
+    &.frap {
+      padding-bottom: 1rem;
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-frap.jpg) no-repeat left top;
+        height:370px;
+      }
+    }
+
+    &.opletki {
+      padding-bottom: 1rem;
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-opletki.jpg) no-repeat left top;
+        height:370px;
+      }
+    }
+    &.tpv {
+      padding-bottom: 1rem;
+      .home-banner__fon {
+        background: transparent;
+        overflow: hidden;
+        video {
+          min-width: 100%;
+          min-height: 100%;
+          width: auto; height: auto;
+        }
+        //background: url(/images/banner/banner-fon-tpv.gif) no-repeat left top;
+        background: transparent;
+        height:370px;
+      }
+    }
+    /*&.d8 {
+      background: url(/images/banner/8-2019-s.jpg) no-repeat left top;
+      background-size: 100%;
+      padding-bottom: 38%;
+    }*/
+&.m9{
+  .home-banner__fon {
+    background: url(/images/banner/banner-fon-9m19.png) no-repeat left top;
+    background-size: 100% ;
+    padding-bottom: 26%;
+    height:auto;
+  }
+}
+    &.m1{
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-1m.jpg) no-repeat left top;
+        background-size: 100% ;
+        padding-bottom: 27%;
+        height:auto;
+      }
+    }
+
+  }
+}
+@media (min-width: $screen-lg-min) {
+  .home-banner{
+    padding-bottom: 1rem;
+    &__fon {
+      background: url(/images/banner/banner-fon.jpg) no-repeat right bottom;
+      height:300px;
+      position:relative;
+    }
+    &__img{
+      position: absolute;
+      right: -2rem;
+      bottom: -3rem;
+    }
+    /*Временные стили, можно удалять*/
+    &.sl {
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-s1.jpg) no-repeat right bottom;
+      }
+    }
+    &.rvk {
+      .home-banner__fon {
+        background: url(/local/images/banner/banner-fon-rvk.jpg) no-repeat left top;
+        height:370px;
+      }
+    }
+    &.alca {
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-alca.jpg) no-repeat left top;
+        height:370px;
+      }
+    }
+
+    &.frap {
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-frap.jpg) no-repeat left top;
+        height:370px;
+      }
+    }
+
+    &.opletki {
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-opletki.jpg) no-repeat left top;
+        height:370px;
+      }
+    }
+    &.tpv {
+      .home-banner__fon {
+        overflow: hidden;
+        video {
+          min-width: 100%;
+          min-height: 100%;
+          width: auto; height: auto;
+        }
+        //background: url(/images/banner/banner-fon-tpv.gif) no-repeat left top;
+        background: transparent;
+        height:370px;
+      }
+    }
+    /*&.d8 {
+      background: url(/images/banner/8-2019-s.jpg) no-repeat left top;
+      background-size: 100%;
+      padding-bottom: 38%;
+    }*/
+    &.m9 {
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-9m19.png) no-repeat left top;
+        background-size: 100% ;
+        padding-bottom: 25%;
+        height:auto;
+      }
+    }
+    &.m1 {
+      .home-banner__fon {
+        background: url(/images/banner/banner-fon-1m.jpg) no-repeat left top;
+        background-size: 100% ;
+        padding-bottom: 27%;
+        height:auto;
+      }
+    }
+  }
+}

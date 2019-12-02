@@ -1,0 +1,264 @@
+
+body {
+  background: url(../images/body-bg.png) $gray-body repeat;
+  min-width:320px;
+}
+header {
+  position: relative;
+}
+.container {
+  background: $gray-lighter;
+  box-shadow: 0px 0px 4px 0px rgba(1, 2, 4, 0.18);
+}
+a:focus {
+  outline: none;
+  outline-offset: 0
+}
+.breadcrumb {
+  margin-bottom: 0px;}
+.breadcrumb>li+li:before {
+  content: "";
+  padding: 0;
+}
+.bootstrap-select .dropdown-toggle:focus {
+  outline: none!important;
+  outline: none!important;
+  outline-offset: 0;
+  box-shadow: none;
+}
+
+.btn-group.open .dropdown-toggle {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.btn {
+  &:focus,&:active {
+    color: inherit;
+    text-decoration: none;
+    box-shadow: none;
+    outline: none;
+  }
+}
+.dropdown-menu {
+  margin-top:-1px;
+  padding: 0;
+  border:1px solid $gray-border;
+  min-width:100%;
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+.btn-dropdown {
+  border-radius: 0;
+  color:$gray-darker;
+  width:100%;
+  text-align:left;
+  padding: 3.5px 12px;
+  border: 1px solid #d5d5d5;
+  font-weight:100;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  &:hover {
+    color:$blue;
+  }
+}
+
+//select
+.bootstrap-select>.dropdown-toggle {
+  padding-right: 25px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.dropdown-header, .dropdown-menu>li>a {
+  padding: 3px 15px;
+}
+
+.btn {
+  display: inline-block;
+  margin-bottom: 0; // For input.btn
+  font-weight: $btn-font-weight;
+  text-align: center;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
+  border: 1px solid transparent;
+  white-space: nowrap;
+  @include button-size($padding-base-vertical, $padding-base-horizontal, $font-size-base, $line-height-base, $btn-border-radius-base);
+  @include user-select(none);
+
+  &,
+  &:active,
+  &.active {
+    &:focus,
+    &.focus {
+      outline: none;
+      outline-offset: 0;
+    }
+  }
+
+  &:hover,
+  &:focus,
+  &.focus {
+    color:white;
+    text-decoration: none;
+  }
+
+  &:active,
+  &.active {
+    outline: 0;
+    background-image: none;
+    @include box-shadow(none);
+  }
+
+  &.disabled,
+  &[disabled],
+  fieldset[disabled] & {
+    cursor: $cursor-disabled;
+    @include opacity(.65);
+    @include box-shadow(none);
+  }
+
+  // [converter] extracted a& to a.btn
+}
+
+.btn-input {
+  border-radius: 0;
+  background: white;
+  color:$blue;
+  width:100%;
+  text-align:left;
+  padding: 3.5px 5px 3.5px 5px;
+  border: 1px solid #d5d5d5;
+  &:hover,
+  &:focus,
+  &.focus {
+    color:$blue;
+    text-decoration: none;
+  }
+}
+.btn-input-default {
+  border-radius: 0;
+  background: $red;
+  color:white;
+  text-align:left;
+  padding: 3.5px 5px;
+  border: 1px solid $red;
+  font-size: 14.4px;
+
+  &:hover,
+  &:focus,
+  &.focus {
+    color:white;
+    text-decoration: none;
+  }
+}
+
+.btn-select, .btn-dropdown {
+  border-radius: 0;
+  text-align:left;
+  padding: 3.5px 5px 3.5px 5px;
+  border: 1px solid $gray-border;
+  font-weight: 100;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  &:hover,
+  &:focus,
+  &.focus {
+    color:$gray-darker;
+    text-decoration: none;
+  }
+}
+
+.btn.btn-primary {
+  border-color: $btn-primary-border;
+  &:focus,
+  &.focus {
+    color: white;
+    background-color: $btn-primary-color;
+    border-color: $btn-primary-color;
+  }
+  &:hover {
+    color: white;
+    background-color: $btn-primary-color;
+    border-color: $btn-primary-color;
+  }
+  &:active,
+  &.active,
+  .open > &.dropdown-toggle {
+    color: white;
+    background-color: $btn-primary-color;
+    border-color: $btn-primary-color;
+
+    &:hover,
+    &:focus,
+    &.focus {
+      color: white;
+      background-color: $btn-primary-color;
+      border-color: $btn-primary-color;
+    }
+  }
+  &:active,
+  &.active,
+  .open > &.dropdown-toggle {
+    background-image: none;
+  }
+  &.disabled,
+  &[disabled],
+  fieldset[disabled] & {
+    &:hover,
+    &:focus,
+    &.focus {
+      background-color: $btn-primary-bg;
+      border-color: $btn-primary-border;
+    }
+  }
+}
+
+.caret {
+  position: absolute;
+  right:6px !important;
+  top: 50%;
+  margin-top:-2px;
+  border:none;
+  @include sprite($dropdown);
+}
+.modal-header {
+  border-bottom: none;
+}
+
+.modal-title {
+  margin-left: 15px 15px 0 15px;
+}
+.modal-body{padding:30px}
+
+.modal-header .close {
+  font-size: 3rem;
+  font-weight: 100;
+  position: absolute;
+  right: 12px;
+  top: 7px;
+}
+
+@media (max-width: $screen-xs-max) {
+  html, body  {font-size: $font-size-base*1.1;}
+  .caret {
+    right:13px !important;
+  }
+  .bootstrap-select>.dropdown-toggle {
+    padding-right: 35px;
+  }
+  .navbar{min-height: auto;}
+  .dropdown-menu li {
+    a {
+      line-height:2rem;
+    }
+    border-bottom:1px solid $gray-border;
+  }
+}
+
+@media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {  }
+@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+}
+@media (min-width: $screen-lg-min) { }
+
+
+
+

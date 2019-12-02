@@ -1,0 +1,43 @@
+@import "compass/reset";
+@import "compass/css3";
+
+@import "customVariables";
+@import "../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap-compass";
+
+@import "../../bower_components/bootstrap-select/dist/css/bootstrap-select.css";
+@import "../../bower_components/seiyria-bootstrap-slider/dist/css/bootstrap-slider.min.css";
+
+@import "fonts";
+@import "ng";
+@import "sprite";
+@import "spritePng";
+@import "icon";
+@import "layout";
+@import "form";
+
+@import "top-line";
+@import "top-navigation";
+
+@import "catalog-top";
+@import "catalog-nav";
+@import "bx-catalog-list";
+@import "catalog";
+@import "pagenav";
+
+@import "product";
+@import "product-images";
+
+@import "filtres";
+/*Поправить стили, добавить еще варианты оформления,либо выкосить ненужное*/
+@import "checkbox";
+@import "popular";
+@import "news";
+@import "mansory";
+@import "partners";
+@import "additional-info";
+
+@import "images-gallery";
+
+@import "footer";
+@import "themeOwl";
