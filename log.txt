@@ -1,0 +1,1274 @@
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:45:50
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 51722, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:46:51
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 70995, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:46:58
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (25083, 50163, 50164, 6, 'Значение', '475-133                  ') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:47:05
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (19912, 39970, 39971, 5, 'Цена') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:47:10
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (14183, 28361, 28362, 6, 'Наименование', 'Код') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:47:17
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 71740, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:47:24
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (17449, 34899, 34900, 4, 'ПометкаУдаления', 'false') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:47:33
+Module: main
+ MySql Query Error: 
+			select
+				*
+			from
+				b_xml_tree_import_1c
+			where (LEFT_MARGIN between 4813 AND 4820)
+			order by  ID asc
+		 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::GetList < CIBlockXMLFile::GetAllChildrenArray < CIBlockCMLImport::ImportElements < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:802
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:707
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2506
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:47:40
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 56745, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:47:47
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 71738, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:48:28
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (50256, 100511, 100512, 6, 'ЦенаЗаЕдиницу', '54.3') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:48:36
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (25026, 50047, 50048, 6, 'Наименование', 'Планируемая дата поступления') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:48:45
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (29502, 59005, 59006, 6, 'Валюта', 'руб') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:48:53
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (28029, 56053, 56054, 6, 'Наименование', 'Минимальная партия') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:49:02
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (28758, 57515, 57516, 6, 'ЦенаЗаЕдиницу', '120.03') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:49:09
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (21964, 43925, 43926, 6, 'Значение', 'Товар') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:50:17
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (15004, 30003, 30004, 6, 'Наименование', 'Планируемая дата поступления') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:50:26
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 69191, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:50:33
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 35454 WHERE ID = 17726 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:50:42
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 62263, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:50:49
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 31969 WHERE ID = 15985 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:51:47
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (12076, 24160, 24161, 5, 'ЗначениеРеквизита') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:51:56
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (30246, 60493, 60494, 6, 'Валюта', 'руб') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:52:04
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (21105, 42239, 42240, 4, 'СтавкиНалогов') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:52:13
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (27041, 54077, 54078, 6, 'Представление', '208,12792 руб. за шт') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:52:19
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (18476, 36948, 36949, 5, 'ЗначениеРеквизита') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:53:26
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 69331, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:53:33
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (19155, 38313, 38314, 4, 'Штрихкод', '4680259209681') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:53:43
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (26329, 52704, 52705, 5, 'Цена') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:53:50
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (19105, 38239, 38240, 4, 'СтавкиНалогов') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:54:00
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (32281, 64578, 64579, 5, 'Цена') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:54:05
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (7080, 14156, 14157, 5, 'СтавкаНалога') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:54:14
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 69349, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:55:00
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (6071, 12137, 12138, 6, 'Представление', '874,627416 руб. за шт') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:56:01
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 49726, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:56:25
+Module: main
+ MySql Query Error: 
+			select
+				*
+			from
+				b_xml_tree_import_1c
+			where (LEFT_MARGIN between 8363 AND 8370)
+			order by  ID asc
+		 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::GetList < CIBlockXMLFile::GetAllChildrenArray < CIBlockCMLImport::ImportElements < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:802
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:707
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2506
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:56:32
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 59001, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:57:04
+Module: main
+ MySql Query Error: 
+			select
+				*
+			from
+				b_xml_tree_import_1c
+			where (PARENT_ID = 3453) and (NAME = 'Картинка')
+			order by  ID asc
+		 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::GetList < CIBlockCMLImport::ImportElement < CIBlockCMLImport::ImportElements < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:802
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:3010
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2577
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:57:11
+Module: main
+ MySql Query Error: 
+			select
+				*
+			from
+				b_xml_tree_import_1c
+			where (PARENT_ID = 1202)
+			order by  ID asc
+		 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::GetList < CIBlockCMLImport::ReadCatalogData < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:802
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2304
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:492
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:58:42
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 62282, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:58:49
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (14170, 28372, 28373, 5, 'ЗначениеРеквизита') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:58:56
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 37726 WHERE ID = 18862 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:59:03
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (19891, 39779, 39780, 6, 'Значение', 'L32*25  PN25 PP-R        ') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:59:10
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (18399, 36817, 36818, 4, 'Страна') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:59:16
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (19345, 38699, 38700, 4, 'БазоваяЕдиница', '796 ') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:59:26
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 61494, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 05:59:55
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (403, 803, 804, 6, 'ИдТипаЦены', '940ec5d1-d29f-11e6-9987-00155dcd780f') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:00:03
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (16843, 33782, 33783, 5, 'Цена') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:00:10
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (20197, 40391, 40392, 6, 'ИдТипаЦены', '47cda361-1195-11e9-b80c-00155dcd7822') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:00:18
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (21662, 43319, 43320, 6, 'Представление', '254,715396 руб. за шт') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:00:25
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (24490, 48981, 48982, 6, 'Валюта', 'руб') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:00:31
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (19933, 39861, 39862, 6, 'Представление', '653,3112 руб. за шт') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:01:40
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 34554 WHERE ID = 17276 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:01:49
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 57373 WHERE ID = 28639 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:01:58
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 50931 WHERE ID = 25466 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:02:06
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (24320, 48637, 48638, 6, 'Значение', 'VETTA Карниз для ванной 2,6м, серебристый алюминий') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:02:13
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (20572, 41140, 41141, 5, 'ЗначенияСвойства') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:02:22
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 72710, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:02:52
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 62013 WHERE ID = 31005 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:02:59
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (25440, 50875, 50876, 6, 'Представление', '73,262 руб. за шт') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:03:06
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (21534, 43065, 43066, 6, 'ИдТипаЦены', '940ec5d5-d29f-11e6-9987-00155dcd780f') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:03:14
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (25958, 51917, 51918, 6, 'Валюта', 'руб') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:03:21
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (23258, 46513, 46514, 4, 'Ид', '34257c01-54d2-11e8-972c-00155dcd7822') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:03:27
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (20345, 40691, 40692, 6, 'Валюта', 'руб') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:04:34
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (14676, 29396, 29397, 5, 'ЗначениеРеквизита') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:04:43
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (27238, 54490, 54491, 5, 'ЗначениеРеквизита') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:04:53
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (29651, 59395, 59396, 4, 'Вес', '0') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:05:02
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (30013, 60021, 60022, 6, 'Наименование', 'Артикул') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:05:12
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (28001, 55999, 56000, 6, 'Значение', '838-007') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:05:19
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (20038, 40114, 40115, 5, 'ЗначениеРеквизита') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:05:28
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 58696, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:05:57
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (119, 235, 236, 6, 'ИдТипаЦены', '940ec5d4-d29f-11e6-9987-00155dcd780f') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:06:04
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (19819, 39764, 39765, 5, 'Цена') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:06:12
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (7, 49860, 49861, 3, 'Предложение') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:06:19
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (22597, 45189, 45190, 6, 'Представление', '72,700992 руб. за шт') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:06:27
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (22876, 45753, 45754, 6, 'Валюта', 'руб') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:06:32
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (8845, 17716, 17717, 5, 'Цена') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 06:07:46
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 17785 WHERE ID = 8907 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:03:06
+Module: main
+ MySql Query Error: 
+			select
+				ID, ATTRIBUTES
+			from
+				b_xml_tree_import_1c
+			where (LEFT_MARGIN between 4562 AND 4661) and (NAME = 'БазоваяЕдиница')
+			order by  ID asc
+		 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::GetList < CIBlockCMLImport::ImportElement < CIBlockCMLImport::ImportElements < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:802
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:3360
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2577
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:03:15
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (24077, 48151, 48152, 6, 'Значение', '2') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:03:23
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 44907 WHERE ID = 22454 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:03:32
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (6, 48570, 48571, 3, 'Товар') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:03:40
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (24971, 49937, 49938, 6, 'Наименование', 'ТипНоменклатуры') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:03:46
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (18503, 37002, 37003, 5, 'Ид', '43df9bec-d1dd-11e6-9987-00155dcd780f') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:04:21
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (45317, 90635, 90636, 6, 'Валюта', 'руб') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:04:27
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 40899 WHERE ID = 20448 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:04:35
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 48743 WHERE ID = 24281 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:04:42
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (23648, 47291, 47292, 6, 'Представление', '1 362,29 руб. за шт') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:04:50
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (26345, 52687, 52688, 6, 'ИдТипаЦены', '47cda35e-1195-11e9-b80c-00155dcd7822') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:04:55
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 24959 WHERE ID = 12478 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:07:38
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 68036, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:07:48
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 57634 WHERE ID = 28792 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:07:55
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (16961, 33917, 33918, 6, 'Наименование', 'Минимальная партия') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:08:05
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 69155, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:08:41
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (17952, 35903, 35904, 6, 'ЦенаЗаЕдиницу', '10.98') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:08:49
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (22144, 44344, 44345, 5, 'Цена') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:08:56
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (24376, 48868, 48869, 5, 'Цена') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:09:04
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (22821, 45639, 45640, 6, 'ИдТипаЦены', '47cda35c-1195-11e9-b80c-00155dcd7822') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:09:09
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (15200, 30401, 30402, 6, 'Валюта', 'руб') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:11:22
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 13361 WHERE ID = 6681 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:11:29
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (19671, 39349, 39350, 4, 'Наименование', 'Tramontina Century Нож кухонный 15см 24007/006') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:11:39
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (22287, 44585, 44586, 4, 'Группы') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:12:01
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 73493 WHERE ID = 36747 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:12:08
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (18779, 37557, 37558, 6, 'ЦенаЗаЕдиницу', '101.87') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:12:23
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (22702, 45500, 45501, 5, 'Цена') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:12:31
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 54189, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:12:38
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 44549 WHERE ID = 22273 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:13:07
+Module: main
+ MySql Query Error: UPDATE b_xml_tree_import_1c SET RIGHT_MARGIN = 6509 WHERE ID = 3253 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::_end_element < CIBlockXMLFile::ReadXMLToDatabase < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:662
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:328
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:13:15
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (0, 57634, 0, 0, '') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2587
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:13:22
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME) VALUES (18982, 38070, 38071, 5, 'Цена') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:13:30
+Module: main
+ MySql Query Error: 
+			select
+				ID, LEFT_MARGIN, RIGHT_MARGIN
+			from
+				b_xml_tree_import_1c
+			where (PARENT_ID = 6) and (ID > 1403)
+			order by  ID asc
+		 [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::GetList < CIBlockCMLImport::ImportElements < include < CBitrixComponent::__includeComponent
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:802
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/general/cml2.php:2497
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:493
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:102
+----------
+Host: www.orbitansk.ru
+Date: 2019-01-29 07:13:36
+Module: main
+ MySql Query Error: INSERT INTO b_xml_tree_import_1c (PARENT_ID, LEFT_MARGIN, RIGHT_MARGIN, DEPTH_LEVEL, NAME, VALUE) VALUES (18661, 37321, 37322, 6, 'ЦенаЗаЕдиницу', '69.78') [[1146] Table 'orbitansk_2018.b_xml_tree_import_1c' doesn't exist]
+    CDatabaseMysql::Query < CIBlockXMLFile::Add < CIBlockXMLFile::_start_element < CIBlockXMLFile::ReadXMLToDatabase < include
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:265
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:642
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/iblock/classes/mysql/cml2.php:347
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/components/bitrix/catalog.import.1c/component.php:403
+	/home/o/orbitansk/orbitansk1/public_html/bitrix/modules/main/classes/general/component.php:594
+----------
